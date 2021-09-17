@@ -1,0 +1,1 @@
+const mensaje = "Hola mundo"
